@@ -13,6 +13,9 @@ www.linkedin.com/in/subarna-sutradhar-1b1101243
 
 [![@subarna_sutradhar's Holopin board](https://holopin.me/subarna_sutradhar)](https://holopin.io/@subarna_sutradhar)
 
+[![Subarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=subarna-sutradhar)](https://github.com/subarna-sutradhar/github-readme-stats)
+
+
 
 <!--
 **subarna-sutradhar/subarna-sutradhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
