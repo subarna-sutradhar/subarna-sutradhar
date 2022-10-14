@@ -14,7 +14,7 @@ www.linkedin.com/in/subarna-sutradhar-1b1101243
 [![@subarna_sutradhar's Holopin board](https://holopin.me/subarna_sutradhar)](https://holopin.io/@subarna_sutradhar)
 
 [![Subarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=subarna-sutradhar&show_icons=true&theme=dark&title_color=eea990)](https://github.com/subarna-sutradhar/github-readme-stats)
-
+[![Subarna's GitHub stats](https://github-readme-language.vercel.app/api?username=subarna-sutradhar&show_icons=true&theme=dark&title_color=eea990)](https://github.com/subarna-sutradhar/github-readme-language)
 
 
 <!--
