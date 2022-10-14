@@ -4,8 +4,12 @@
 - 👯 I’m looking to collaborate on develpoing new softwares
 - 😄 Pronouns: he/him
 
+
+
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 www.linkedin.com/in/subarna-sutradhar-1b1101243
+
+
 
 [![@subarna_sutradhar's Holopin board](https://holopin.me/subarna_sutradhar)](https://holopin.io/@subarna_sutradhar)
 
