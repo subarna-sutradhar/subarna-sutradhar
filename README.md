@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning c++ 
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on develpoing new softwares
-- 😄 Pronouns: he/him
 
 ## Links🔗
 
