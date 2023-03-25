@@ -1,7 +1,11 @@
+<div id="header" align="center">
+  <img src="https://github.com/subarna-sutradhar/subarna-sutradhar/blob/main/data/screen%20open.gif" width="450" height="250"/>
+</div>
+
 ### Hi there 👋
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on develpoing new softwares
+- I’m currently working on personal projects
+- I’m currently learning Machine Learning
+- I’m looking to collaborate on develpoing new softwares
 
 ## Links🔗
 
