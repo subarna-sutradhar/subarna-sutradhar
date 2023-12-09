@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 - I’m currently working on personal projects
-- I’m currently learning Machine Learning
+- I’m currently learning Machine Learning and Android Development
 - I’m looking to collaborate on develpoing new softwares
 
 ## Links🔗
