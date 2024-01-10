@@ -15,20 +15,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subarna-sutradhar)
 
 
-## Trophies 🏆
-<br>
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=subarna-sutradhar&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
-</p>
-<hr>
-<br>
-
-
-## Github Contribution Streak 🔥
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=subarna-sutradhar&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
-
 ## Badges of Hacktoberfest 2022 
 
 [![@subarna_sutradhar's Holopin board](https://holopin.me/subarna_sutradhar)](https://holopin.io/@subarna_sutradhar)
